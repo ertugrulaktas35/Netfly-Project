@@ -1,0 +1,14 @@
+Background:#080134
+container width:1264px
+active color:#01C5BA
+border color:#393556
+like text:#E6E6EB
+in stock color:#CECCD6
+footer color:#0B062D
+ether color:#FFD166
+label rare backgorund color:#2D1446
+label rare text color:#C379F6
+label feature background color:#561857
+label feature text color:#FF72D2
+check color:#1b99f2
+
